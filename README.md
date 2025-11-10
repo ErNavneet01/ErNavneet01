@@ -1,18 +1,20 @@
-# 👋 Hey there, I'm Navneet!
+<h1 align="center">👋 Hey, I'm Navneet!</h1>
 
-🎓 **Computer Science & Engineering Student**  
-💡 Passionate about technology, coding, and problem-solving.  
-🚀 Currently exploring **Java, Data Structures, and Web Development**.  
+<p align="center">
+🎓 <b>Computer Science & Engineering Student</b> <br/>
+💻 Passionate about <b>Java, Web Development, and Problem Solving</b> <br/>
+🚀 Always learning, always building!
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on improving my **Java** and **DSA** skills  
-- 🌱 Learning about **Databases**, **Operating Systems**, and **Networking**  
-- 💬 Ask me about **C++, Java, DSA, or basic web projects**  
-- 🎯 Goal: Become a **full-stack developer** and build real-world projects  
-- ⚡ Fun fact: I debug faster when I have coffee ☕  
+- 🔭 I’m currently working on **Java projects** and **DSA practice**  
+- 🌱 Learning more about **Web Development**, **Databases**, and **System Design**  
+- 💬 Ask me about **Java, C++, DSA, or GitHub Projects**  
+- 🎯 Goal: Become a **Full-Stack Developer** and contribute to open-source  
+- ⚡ Fun fact: I debug faster when I have a playlist running 🎧  
 
 ---
 
@@ -27,22 +29,43 @@
 
 ---
 
-## 🗂️ Projects
+## 🚀 Projects
 
-🔹 [Online Banking System (Java)](https://github.com/your-username/Online-Banking-System)  
-🔹 [Portfolio Website](https://github.com/your-username/Portfolio)  
-🔹 [Data Structures in Java](https://github.com/your-username/DSA-Java)
+Here are a few of my works 👇
 
-> 💡 Replace `your-username` with your actual GitHub username and add more projects as you create them!
+- 🔹 [Online Banking System (Java)](https://github.com/your-username/Online-Banking-System)
+- 🔹 [Portfolio Website](https://github.com/your-username/Portfolio)
+- 🔹 [DSA in Java](https://github.com/your-username/DSA-Java)
+
+> *(Replace `your-username` with your actual GitHub username!)*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Navneet's GitHub stats" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub streak" width="45%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 **Email:** your-email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
+<p align="center">
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-⭐️ *“Code. Learn. Build. Repeat.”*
+<p align="center">
+⭐️ *“Code. Learn. Build. Repeat.”*  
+</p>
